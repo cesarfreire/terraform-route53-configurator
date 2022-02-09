@@ -1,1 +1,1 @@
-# terraform-route53-configurator
+# terraform-route53-locaweb-configurator
